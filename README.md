@@ -8,7 +8,7 @@
 
 ## [![Reddit](https://img.shields.io/reddit/user-karma/combined/No_Procedure_2955?label=No_Procedure_2955&style=social)](https://www.reddit.com/user/No_Procedure_2955)
 
-## [![Email](https://img.shields.io/badge/gmail-stormtr56976211%40gmail.com-red)](mailto:stormtr56976211@gmail.com)
+## [![Email](https://img.shields.io/badge/-stormtr56976211%40gmail.com-white)](mailto:stormtr56976211@gmail.com)
 
 ## [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stormtr56976211)
 
