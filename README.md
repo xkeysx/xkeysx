@@ -10,7 +10,7 @@
 
 ## [![Email](https://img.shields.io/badge/-stormtr56976211%40gmail.com-white)](mailto:stormtr56976211@gmail.com)
 
-## [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stormtr56976211)
+## [![Discord](https://img.shields.io/badge/Join-thecodingden-black)](https://discord.gg/code)
 
 
 
