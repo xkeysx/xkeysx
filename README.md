@@ -15,7 +15,7 @@
 
 
 
-[![graph](https://activity-graph.herokuapp.com/graph?username=sudozyx&theme=react-dark)](https://github.com/sudozyx)
+[![graph](https://activity-graph.herokuapp.com/graph?username=sudozyx&theme=react-dark)](https://github.com/xsummit)
 
 
 
