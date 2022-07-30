@@ -1,6 +1,6 @@
 **I'm into Cybersecurity, Web Application and pretty much into Coding, also**
 - **Automation** 
-- **and learning AI**
+- **Anime ")**
 
 <img align="left" src="mysword.gif" style="top:20%; right:20%">
 
