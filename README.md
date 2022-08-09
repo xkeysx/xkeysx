@@ -2,7 +2,7 @@
 - **Automation** 
 - **Anime ")**
 
-<img align="left" src="decryption.gif" style="top:20%; right:20%">
+<img align="left" src="errors.gif" style="top:20%; right:20%">
 
 ## [![Twitter](https://img.shields.io/twitter/url?label=myselfsilver&style=social&url=https%3A%2F%2Ftwitter.com%2Fmyselfsilver)](https://twitter.com/myselfsilver)
 
