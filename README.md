@@ -10,7 +10,7 @@
 
 ## [![R](https://img.shields.io/reddit/user-karma/combined/No_Procedure_2955?label=No_Procedure_2955&style=social)](https://www.reddit.com/user/No_Procedure_2955)
 
-## [![Discord](https://img.shields.io/badge/join-thecodingden-black)](https://discord.gg/code)
+## [![Join us](https://img.shields.io/badge/Join-us-black)](https://www.youtube.com/channel/UC7drqF0RIzeH7W29lsOtnkA)
 
 
 
