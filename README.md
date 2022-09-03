@@ -1,3 +1,4 @@
+<img align="left" src="ls.png" style="top:20%; right:20%">
 **I'm into Cybersecurity, Web Application and pretty much into Coding, also**
 - **Automation** 
 - **Anime ")**
