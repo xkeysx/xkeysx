@@ -1,9 +1,8 @@
-<img align="left" src="ls.png" style="top:20%; right:20%">
 **I'm into Cybersecurity, Web Application and pretty much into Coding, also**
 - **Automation** 
 - **Anime ")**
 
-<img align="left" src="loopy.gif" style="top:20%; right:20%">
+<img align="left" src="ls.gif" style="top:20%; right:20%">
 
 ## [![Twitter](https://img.shields.io/twitter/url?label=%20%2Frajk637377&style=social&url=https%3A%2F%2Ftwitter.com%2Frajk637377)](https://twitter.com/rajk637377)
 
