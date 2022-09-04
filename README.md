@@ -4,7 +4,7 @@
 
 <img align="left" src="ls.gif" style="top:20%; right:20%">
 
-## [![Twitter](https://img.shields.io/twitter/url?label=%2Frajkr37377&style=social&url=https%3A%2F%2Ftwitter.com%2Frajkr37377)](https://twitter.com/rajk37377)
+## [![Twitter](https://img.shields.io/twitter/url?label=%2Frajkr37377&style=social&url=https%3A%2F%2Ftwitter.com%2Frajkr37377)](https://twitter.com/rajkr37377)
 
 ## [![Email](https://img.shields.io/twitter/url?color=wdw&label=s7887132%40gmail.com&logo=dwwd&logoColor=wdwdw&style=social&url=https%3A%2F%2Ftwitter.com%2Fmyselfsilver)](mailto:s7887132@gmail.com)
 
