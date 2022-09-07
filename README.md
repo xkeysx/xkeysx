@@ -15,7 +15,7 @@
 
 
 
-[![graph](https://activity-graph.herokuapp.com/graph?username=krggrj87623&theme=react-dark)](https://www.youtube.com/channel/UC7drqF0RIzeH7W29lsOtnkA)
+[![graph](https://activity-graph.herokuapp.com/graph?username=rajkr1834&theme=react-dark)](https://twitter.com/krggraj87126)
 
 
 
