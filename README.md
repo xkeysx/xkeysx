@@ -15,7 +15,7 @@
 
 
 
-[![graph](https://activity-graph.herokuapp.com/graph?username=rajkr1834&theme=react-dark)](https://twitter.com/krggraj87126)
+[![graph](https://activity-graph.herokuapp.com/graph?username=silver42987&theme=react-dark)](https://twitter.com/krggraj87126)
 
 
 
