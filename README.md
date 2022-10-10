@@ -10,7 +10,7 @@
 
 ## [![R](https://img.shields.io/reddit/user-karma/combined/Legitimate-Net-1307?label=Legitimate-Net-1307&style=social)](https://www.reddit.com/user/Legitimate-Net-1307)
 
-## [![Join us](https://img.shields.io/badge/Join-us-black)](127.0.0.1)
+## [![Join us](https://img.shields.io/badge/Join-us-black)](https://t.me/+Jgzj4P2vT0s1ZjJl)
 
 
 
