@@ -1,6 +1,6 @@
-**I'm into Cybersecurity, Web Application and pretty much into Coding, also**
+**I'm into Security, Web Application and pretty much into Coding, also i love**
 - **Automation** 
-- **Anime ")**
+- **Anime, EDM and Games ")**
 
 <img align="left" src="ls.gif" style="top:20%; right:20%">
 
