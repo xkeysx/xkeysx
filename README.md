@@ -1,6 +1,6 @@
 **I'm into Security, Web Application and pretty much into Coding, also i love**
 - **Automation** 
-- **Anime, EDM and Games ")**
+- **Web applications**
 
 <img align="left" src="ls.gif" style="top:20%; right:20%">
 
