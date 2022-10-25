@@ -1,4 +1,4 @@
-**I'm into Security, Web Application and pretty much into Coding, also i love**
+**I'm into Security, Web Application and pretty much into Coding, also**
 - **Automation** 
 - **Web applications**
 
