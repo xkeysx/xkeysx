@@ -8,14 +8,14 @@
 
 ## [![Email](https://img.shields.io/twitter/url?color=wdw&label=s7887132%40gmail.com&logo=dwwd&logoColor=wdwdw&style=social&url=https%3A%2F%2Ftwitter.com%2Fmyselfsilver)](mailto:s7887132@gmail.com)
 
-## [![R](https://img.shields.io/reddit/user-karma/combined/Legitimate-Net-1307?label=Legitimate-Net-1307&style=social)](https://www.reddit.com/user/Legitimate-Net-1307)
+## [![R](https://img.shields.io/reddit/subreddit-subscribers/rulestayupdated?style=social)](https://www.reddit.com/r/rulestayupdated/)
 
-## [![Join us](https://img.shields.io/badge/Join-us-black)](https://t.me/+Jgzj4P2vT0s1ZjJl)
-
-
+## [![Join us](https://img.shields.io/badge/Join-us-black)](https://t.me/rulestayupdated)
 
 
-[![graph](https://activity-graph.herokuapp.com/graph?username=xsummit&theme=react-dark)](https://t.me/joinunityshield)
+
+
+[![graph](https://activity-graph.herokuapp.com/graph?username=xsummit&theme=react-dark)](https://t.me/rulestayupdated)
 
 
 
