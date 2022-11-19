@@ -10,7 +10,7 @@
 
 ## [![R](https://img.shields.io/reddit/subreddit-subscribers/rulestayupdated?style=social)](https://www.reddit.com/r/rulestayupdated/)
 
-## [![Join us](https://img.shields.io/badge/Join-us-black)](https://t.me/rulestayupdated)
+## [![Join us](https://img.shields.io/badge/Join-us-black)](https://discord.gg/g7wWE2YeyC)
 
 
 
