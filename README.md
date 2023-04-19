@@ -15,7 +15,7 @@
 
 
 
-[![graph](https://activity-graph.herokuapp.com/graph?username=r745382&theme=react-dark)](127.0.0.1)
+[![!](!)](127.0.0.1)
 
 
 
