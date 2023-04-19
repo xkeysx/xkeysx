@@ -8,7 +8,7 @@
 
 ## [![Email](https://img.shields.io/twitter/url?color=wdw&label=s7887132%40gmail.com&logo=dwwd&logoColor=wdwdw&style=social&url=https%3A%2F%2Ftwitter.com%2Fmyselfsilver)](mailto:s7887132@gmail.com)
 
-## [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/rulestayupdated?label=_r%2Frulestayupdated&style=social)](https://www.reddit.com/r/rulestayupdated/)
+## [![leet](https://img.shields.io/badge/leet-code-black)](https://leetcode.com/s7887132/)
 
 ## [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC7drqF0RIzeH7W29lsOtnkA?label=Subscribe&style=social)](https://www.youtube.com/channel/UC7drqF0RIzeH7W29lsOtnkA)
 
@@ -17,7 +17,7 @@
 
 
 
-[![graph](https://activity-graph.herokuapp.com/graph?username=xsummit&theme=react-dark)](https://t.me/rulestayupdated)
+[![graph](https://activity-graph.herokuapp.com/graph?username=r745382&theme=react-dark)](127.0.0.1)
 
 
 
