@@ -8,11 +8,9 @@
 
 ## [![Email](https://img.shields.io/twitter/url?color=wdw&label=s7887132%40gmail.com&logo=dwwd&logoColor=wdwdw&style=social&url=https%3A%2F%2Ftwitter.com%2Fmyselfsilver)](mailto:s7887132@gmail.com)
 
-## [![leet](https://img.shields.io/badge/leet-code-black)](https://leetcode.com/s7887132/)
-
 ## [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC7drqF0RIzeH7W29lsOtnkA?label=Subscribe&style=social)](https://www.youtube.com/channel/UC7drqF0RIzeH7W29lsOtnkA)
 
-## [![Join us](https://img.shields.io/badge/Join-us-black)](https://discord.gg/g7wWE2YeyC)
+## [![leet](https://img.shields.io/badge/leet-code-black)](https://leetcode.com/s7887132/)
 
 
 
