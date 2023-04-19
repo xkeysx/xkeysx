@@ -2,7 +2,7 @@
 - **Automation** 
 - **Web applications**
 
-<img align="left" src="links.gif" style="top:20%; right:20%">
+<img align="left" src="linkgif.gif" style="top:20%; right:20%">
 
 ## [![Twitter](https://img.shields.io/twitter/url?label=%2Fkrggraj87126&style=social&url=https%3A%2F%2Ftwitter.com%2Fkrggraj87126)](https://twitter.com/krggraj87126)
 
