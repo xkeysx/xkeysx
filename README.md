@@ -1,6 +1,6 @@
 **I'm into Security, Web Application and pretty much into Coding, also**
 - **Automation** 
-- **idk i just do what i like**
+- **idk i just do what i like v_**
 
 <img align="left" src="star.gif" style="top:20%; right:20%">
 
