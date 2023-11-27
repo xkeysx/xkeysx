@@ -2,7 +2,7 @@
 - **Automation** 
 - **Almost Anything related to technology**
 
-<img align="left" src="n2.gif" style="top:20%; right:20%">
+<img align="left" src="tumblr_ae72b7444b7565ff357f1c32636e4dce_4048b1f3_540.gif" style="top:20%; right:20%">
 
 ## [![Twitter](https://img.shields.io/twitter/url?label=%2Fkrggraj87126&style=social&url=https%3A%2F%2Ftwitter.com%2Fkrggraj87126)](https://twitter.com/krggraj87126)
 
